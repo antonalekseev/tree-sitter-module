@@ -112,6 +112,9 @@ case "${lang}" in
     "zig")
         org="maxxnino"
 	;;
+    "hcl")
+        org="MichaHoffmann"
+        ;;
 
 esac
 
