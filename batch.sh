@@ -18,6 +18,7 @@ languages=(
     'glsl'
     'go'
     'go-mod'
+    'hcl'
     'heex'
     'html'
     'janet-simple'
